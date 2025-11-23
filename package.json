@@ -1,0 +1,25 @@
+{
+  "name": "farm-shelter-management-system",
+  "version": "1.0.0",
+  "description": "농막 관리 시스템 - 농사지역 농막/쉼터 통합 관리",
+  "main": "index.js",
+  "scripts": {
+    "setup": "./start.sh",
+    "backend": "cd backend && npm run dev",
+    "admin": "cd admin-web && npm start",
+    "mobile": "cd mobile-app && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas2025codex/private_1.git"
+  },
+  "keywords": [
+    "farm",
+    "shelter",
+    "agriculture",
+    "management",
+    "system"
+  ],
+  "author": "",
+  "license": "MIT"
+}
