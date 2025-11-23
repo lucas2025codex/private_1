@@ -1,0 +1,36 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+.gradle/
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+
+# Bundle artifacts
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Env
+.env
+.env.local
+
+# Android
+*.apk
+*.ap_
+*.aab
